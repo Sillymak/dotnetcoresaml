@@ -1,7 +1,0 @@
-.vscode/
-bin/
-cert.pem
-key.pem
-obj/
-okta-saml.csproj
-wwwroot/
